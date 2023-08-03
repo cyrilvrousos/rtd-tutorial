@@ -6,10 +6,6 @@
     <h2>XSMP Modeler Core</h2>
     </div>
 
-
-XSMP Modeler Core
-=================
-
 Get started
 -----------
 
