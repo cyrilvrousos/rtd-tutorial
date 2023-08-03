@@ -15,7 +15,7 @@
    home
 
 .. toctree::
-   :caption: Developer guide
+   :caption: Developper guide
    :maxdepth: 2
 
    requirements
