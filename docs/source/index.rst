@@ -12,5 +12,16 @@
 .. toctree::
    :maxdepth: 1
 
-   usage
-   api
+   home
+
+.. toctree::
+   :caption: Developer guide
+   :maxdepth: 2
+
+   requirements
+
+.. toctree::
+   :caption: User guide
+   :maxdepth: 2
+
+   installing
