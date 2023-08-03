@@ -36,6 +36,7 @@ Contributing
 
 If you are interested in contributing, start by reading the [Contributing guide](/CONTRIBUTING.md).
 
-## License
+License
+-------------------
 
 - [Eclipse Public License 2.0](http://www.eclipse.org/legal/epl-2.0/)
