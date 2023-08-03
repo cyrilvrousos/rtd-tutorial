@@ -16,6 +16,13 @@ how to :ref:`installation` the project.
 Contents
 --------
 
+.. only:: latex
+
+   Intro
+   =====
+
+.. include:: readme.rst
+
 .. toctree::
 
    usage
