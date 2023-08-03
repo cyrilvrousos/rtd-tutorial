@@ -35,6 +35,7 @@ The Catalogue file is located in the ``smdl`` folder of the newly created projec
 This file is a textual file that describes the SMP Catalogue. Its content must match the Xsmpcat grammar.
 
 The Xsmp modeler provides a specialized editor with:
+
 * Syntax/Semantic Coloring
 * Error Checking
 * Auto-Completion (including templates)
