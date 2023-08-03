@@ -10,9 +10,10 @@ Command Line Interface
 ======================
 
 To convert an smpcat file to xsmpcat using the CLI:
-- Get the CLI .jar in `org.eclipse.xsmp.tool.smp.cli > target > ...-SNAPSHOT-cli.jar`
-- Go to the root of your project: ``cd /workspace/your-project``
-- Launch the CLI with the -i option: ``java -jar path/to/cli.jar -i``
+
+#. Get the CLI .jar in `org.eclipse.xsmp.tool.smp.cli` > `target` > **...-SNAPSHOT-cli.jar**
+#. Go to the root of your project: ``cd /workspace/your-project``
+#. Launch the CLI with the -i option: ``java -jar path/to/cli.jar -i``
 
 The xsmpcat file will be generated in the ``smdl`` folder.
 
