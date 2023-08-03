@@ -1,5 +1,9 @@
 # Configuration file for the Sphinx documentation builder.
 
+from pathlib import Path
+
+DIR = Path(__file__).parent.resolve()
+
 # -- Project information
 
 project = 'XSMP Modeler'
